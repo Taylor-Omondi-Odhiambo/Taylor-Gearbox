@@ -6,3 +6,8 @@
     text-align: center;
     color: white;
 }
+
+.list{
+    display: flex;
+    flex-direction: column;
+}

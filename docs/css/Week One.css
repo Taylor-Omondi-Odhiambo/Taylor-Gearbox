@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.title{
+    text-align: center;
+}
+
+.main{
+    text-align: center;
+}
+
+.pics{
+    width: 500px;
+    height: 550px;
+}
