@@ -7,7 +7,7 @@ nav_order: 2
 
 # Documentation and Version Control
 During the first week of the training we went through the importance of documentation and version control. We were trained and given access to resources that,
-1. Enabled us to document our experience thorugh websites such as this
+1. Enabled us to document our experience through websites such as this
 2. Enabled us to use tools such as git and github for version control and collaboration with others
 
 ### Documentaion via the web
