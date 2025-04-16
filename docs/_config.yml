@@ -1,7 +1,6 @@
 # Site settings
 title: "Taylor's Gearbox Experience"
 markdown: GFM
-#theme: jekyll-theme-midnight
 remote_theme: just-the-docs/just-the-docs
-#color_scheme: light
+color_scheme: dark
 search_enabled: true
