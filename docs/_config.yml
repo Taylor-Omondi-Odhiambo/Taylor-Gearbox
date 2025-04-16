@@ -1,28 +1,6 @@
 # Site settings
 title: "Taylor's Gearbox Experience"
-description: A site documenting Taylor's experience with gearboxes and related topics.
-url: "https://username.github.io"  # Replace with your GitHub Pages URL
-baseurl: "/repository-name"  # Replace with the name of your repository (e.g., /taylor-gearbox)
-
-# Theme settings
-theme: just-the-docs  # Use the Just the Docs theme
-
-# Build settings
-markdown: kramdown  # Jekyll's default Markdown processor
-permalink: pretty  # Pretty permalinks (optional)
-
-# Optional settings for your site
-author: Taylor
-email: taylor.email@example.com
-
-# Exclude files or folders from the build
-exclude:
-  - README.md  # Exclude the README if you don't want it on the site
-
-# Plugins (if needed)
-plugins:
-  - jekyll-seo-tag  # Add SEO metadata (optional)
-
-# Markdown options
-kramdown:
-  input: GFM  # GitHub Flavored Markdown
+markdown: GFM
+remote_theme: just-the-docs/just-the-docs
+#color_scheme: light
+search_enabled: true
