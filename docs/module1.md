@@ -3,8 +3,6 @@ title: Documentation and Version Control
 nav_order: 2
 ---
 
-[Home](index.md)
-
 # Documentation and Version Control
 During the first week of the training we went through the importance of documentation and version control. We were trained and given access to resources that,
 1. Enabled us to document our experience through websites such as this
