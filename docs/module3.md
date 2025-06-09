@@ -1,7 +1,7 @@
 ---
 title: Electronic Components, Circuits, and Microcontroller Basics
 nav_order: 4
--------------
+---
 
 ## Introduction to Electronics and Components
 

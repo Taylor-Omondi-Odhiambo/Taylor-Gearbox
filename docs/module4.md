@@ -1,8 +1,7 @@
 ---
-
 title: Introduction to Python and Raspberry Pi Pico
 nav_order: 5
--------------
+---
 
 ## Introduction to Python for Embedded Systems
 
