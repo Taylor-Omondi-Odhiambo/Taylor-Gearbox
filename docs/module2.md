@@ -42,4 +42,4 @@ We did a few exercises to reinforce these concepts.
 
 ![C exercise](images/Ccode.png)
 
-[Back](module1.md) /[Next](module3.md)
+[Back](module1.md) / [Next](module3.md)
