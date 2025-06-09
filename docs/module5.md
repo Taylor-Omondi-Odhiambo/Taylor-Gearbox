@@ -7,7 +7,7 @@ nav_order: 6
 
 Sensors and actuators are essential for interactive embedded systems. Sensors detect changes in the physical environment and convert them into electrical signals, while actuators convert electrical inputs into mechanical action or physical output.
 
-### 5.1 Understanding Electronic Circuits and Components
+### Understanding Electronic Circuits and Components
 
 A solid grasp of circuits and their components is crucial when integrating sensors and actuators:
 
@@ -17,7 +17,7 @@ A solid grasp of circuits and their components is crucial when integrating senso
 * **Power Considerations**: Voltage levels, current draw, and power dissipation (P = V × I)
 * **Circuit Protection**: Using resistors, diodes, and fuses to safeguard against overcurrent and voltage spikes
 
-### 5.2 Introduction to Sensors and Actuators
+### Introduction to Sensors and Actuators
 
 **Sensors** monitor physical phenomena and output electrical signals:
 
@@ -33,7 +33,7 @@ A solid grasp of circuits and their components is crucial when integrating senso
 * **Buzzers & Speakers** – Audio output
 * **Relays & Solenoids** – Electrical switching or mechanical actuation
 
-### 5.3 Interfacing External LEDs, Switches, and Pushbuttons with RP2040
+### Interfacing External LEDs, Switches, and Pushbuttons with RP2040
 
 The RP2040’s GPIO pins can drive LEDs and read button states. Example in MicroPython:
 
